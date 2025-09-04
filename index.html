@@ -328,6 +328,36 @@
             animation: float 6s ease-in-out infinite;
         }
         
+        .github-setup {
+            background: rgba(0, 0, 0, 0.2);
+            padding: 20px;
+            border-radius: 10px;
+            margin: 30px 0;
+            border-left: 4px solid var(--success-color);
+        }
+        
+        .github-setup h3 {
+            color: var(--success-color);
+            margin-top: 0;
+        }
+        
+        .github-setup ol {
+            padding-left: 30px;
+            margin: 15px 0;
+        }
+        
+        .github-setup li {
+            margin-bottom: 10px;
+            position: relative;
+        }
+        
+        .github-setup code {
+            background: rgba(0, 0, 0, 0.3);
+            padding: 2px 6px;
+            border-radius: 4px;
+            font-family: monospace;
+        }
+        
         @media (max-width: 768px) {
             .grid {
                 grid-template-columns: 1fr;
@@ -359,7 +389,7 @@
             <div class="capsule-container">
                 <div class="capsule-text">Hey Everyone! 🕹️</div>
             </div>
-
+            <img src="https://avatars.githubusercontent.com/u/example" alt="Nhaniso J. Undenge" class="profile-img">
             <h1>Nhaniso J. Undenge</h1>
             <p class="tagline">Mobile & Full Stack Developer | Blockchain & AI Enthusiast</p>
             <div class="contact-info">
@@ -375,6 +405,19 @@
             </div>
             <a href="https://nhanitech.vercel.app" class="portfolio-link">View My Portfolio</a>
         </header>
+
+        <div class="github-setup">
+            <h3><i class="fab fa-github"></i> GitHub Pages Setup Instructions</h3>
+            <p>Your GitHub Pages is showing the README.md instead of this HTML file. Here's how to fix it:</p>
+            <ol>
+                <li>Rename your HTML file to <code>index.html</code> (if it isn't already)</li>
+                <li>Create an empty file named <code>.nojekyll</code> in your repository root</li>
+                <li>Go to your repository Settings → Pages → Build and deployment</li>
+                <li>Select "Deploy from a branch" and choose your main branch</li>
+                <li>Wait a few minutes for GitHub to deploy your site</li>
+            </ol>
+            <p>Alternatively, you can rename your README.md to something else like <code>README_original.md</code> temporarily.</p>
+        </div>
 
         <section>
             <h2>About Me</h2>
@@ -482,6 +525,14 @@
         <section>
             <h2>Education & Certifications</h2>
             <div class="grid">
+                <div class="card">
+                    <h3><i class="fas fa-graduation-cap tech-icon"></i> Education</h3>
+                    <ul>
+                        <li>Bachelor's in Computer Science - University of Zimbabwe</li>
+                        <li>Advanced Level - St Ignatius College</li>
+                        <li>Ordinary Level - Churchill Boys High</li>
+                    </ul>
+                </div>
                 
                 <div class="card">
                     <h3><i class="fas fa-certificate tech-icon"></i> Certifications</h3>
@@ -489,7 +540,7 @@
                         <li>Google Digital Marketing Certificate</li>
                         <li>Introduction to Big Data (Udemy)</li>
                         <li>Machine Learning & AI (Udemy)</li>
-                        <li>Next.JS Certificate (Udemy)</li>
+                        <li>Vue.JS Certificate (Udemy)</li>
                         <li>Ethereum and Solidity Bootcamp (Udemy)</li>
                     </ul>
                 </div>
@@ -501,7 +552,7 @@
         </section>
 
         <footer>
-            <p>© 2025 Nhaniso J. Undenge. All rights reserved.</p>
+            <p>© 2023 Nhaniso J. Undenge. All rights reserved.</p>
             <p>References available upon request.</p>
         </footer>
     </div>
