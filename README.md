@@ -1,4 +1,4 @@
-# Nhaniso J. Undenge
+e# Nhaniso J. Undenge
 
 **Mobile & Full Stack Developer | Blockchain & AI Enthusiast**
 
@@ -62,8 +62,7 @@ iOS application for music management with database setup and UI design.
 - **Email**: [nhanitech@gmail.com](mailto:nhanitech@gmail.com)
 - **Phone**: +263 714 024267
 - **Location**: Harare, Zimbabwe
-- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- **Twitter**: [Your Twitter](https://twitter.com/yourprofile)
+- **LinkedIn**: (https://www.linkedin.com/in/nhaniso-undenge-709b23100/)
 
 ![Contact Me](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
