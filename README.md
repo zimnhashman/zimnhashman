@@ -1,4 +1,4 @@
-e# Nhaniso J. Undenge
+Nhaniso J. Undenge
 
 **Mobile & Full Stack Developer | Blockchain & AI Enthusiast**
 
