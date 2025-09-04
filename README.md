@@ -30,6 +30,10 @@ I've developed many cool applications on GitHub and built numerous commercial ap
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+## 🌐 Portfolio Links
+- **[nhanitech.vercel.app](https://nhanitech.vercel.app)** - My main portfolio website
+- **[zimnhashman.github.io](https://zimnhashman.github.io)** - My GitHub Pages portfolio
+
 ## 🚀 Projects
 
 ### [Perigee Application](https://github.com/zimnhashman)
@@ -45,6 +49,7 @@ Data analysis tool with Java SpringBoot backend and Angular frontend.
 iOS application for music management with database setup and UI design.
 
 ![Coding GIF](https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif)
+
 
 ## 📊 GitHub Stats
 
